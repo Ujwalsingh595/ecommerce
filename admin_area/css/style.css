@@ -1,0 +1,16 @@
+.wrapper{
+	padding-left: 0px;
+	background-color: #F9F9F9;
+}
+.sidebar{
+	width: 16rem;
+	font-size: 25px;
+
+}
+.sidebar-heading{
+	padding: 15px;
+}
+.huge{
+	font-size: 40px;
+	line-height: normal;
+}
